@@ -2,13 +2,12 @@
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
 
+
+
 **MI ENTREGA**
-* Classroom entrega microbit:
-https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023/assignments/microbit
-* Classroom:
-https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023
-* Mi organización:
-https://github.com/ULL-MFP-AET-2324-alu0100224023
+*[Classroom entrega microbit](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023/assignments/microbit-v2)
+* [Classroom](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023)
+* [Mi organización](https://github.com/ULL-MFP-AET-2324-alu0100224023)
 
 ## Edit this project
 
