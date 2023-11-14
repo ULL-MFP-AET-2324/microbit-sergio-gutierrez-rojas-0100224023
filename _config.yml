@@ -2,7 +2,12 @@ makecode:
   target: microbit
   platform: microbit
   home_url: https://makecode.microbit.org/
-theme: jekyll-theme-architec
+theme: jekyll-theme-cayman
+asignatura: tecnología para cazar caymanes
+Lista_de_la_compra:
+  - soga
+  - cinta americana
+  - guantes
 include:
   - assets
   - README.md
