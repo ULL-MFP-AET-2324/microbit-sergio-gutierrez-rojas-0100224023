@@ -9,6 +9,12 @@
 * [Classroom](https://classroom.github.com/classrooms/149104090-ull-mfp-aet-2324-alu0100224023)
 * [Mi organización](https://github.com/ULL-MFP-AET-2324-alu0100224023)
 
+
+**UNA FOTO**
+
+![PRUEBITA](https://img.freepik.com/foto-gratis/paisaje-niebla-matutina-montanas-globos-aerostaticos-al-amanecer_335224-794.jpg?size=626&ext=jpg&ga=GA1.1.867424154.1697932800&semt=sph)
+
+
 ## Edit this project
 
 To edit this repository in MakeCode.
